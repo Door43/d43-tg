@@ -24,3 +24,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/tg|Ethnologue data]]
+
+**Resources**
+
+  * [[tg:obs|Open Bible Stories (tg)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:tg:obs:status}}
